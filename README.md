@@ -1,2 +1,5 @@
 # data-science-project
-Statistical analysis of Ice Hockey
+Statistical/Linguistical analysis of Ice Hockey
+
+The main module is team.py. 
+It imports all the others in which constituent data structures are defined.
